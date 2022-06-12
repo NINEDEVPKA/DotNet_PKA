@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hPvucBLF/DAHSvJdJLxXk3DFbm981hxgF60gltiTL+mIRofAu9ElCY3PpCPAUA9O3E+g2adckbeuOzUXbKm70w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSI Modern 15\\Downloads\\FileExplorer-WPF-main\\FileExplorer\\FileExplorer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI Modern 15\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\MSI Modern 15\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\MSI Modern 15\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.31\\microsoft.xaml.behaviors.wpf.1.1.31.nupkg.sha512",
+    "C:\\Users\\MSI Modern 15\\.nuget\\packages\\syroot.windows.io.knownfolders\\1.2.3\\syroot.windows.io.knownfolders.1.2.3.nupkg.sha512",
+    "C:\\Users\\MSI Modern 15\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\MSI Modern 15\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
